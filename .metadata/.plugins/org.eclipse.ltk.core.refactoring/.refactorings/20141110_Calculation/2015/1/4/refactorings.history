@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Calculation_lib.java&apos; to &apos;FrameSystem/src/lib&apos;&#x0D;&#x0A;- Original project: &apos;20141110_Calculation&apos;&#x0D;&#x0A;- Destination element: &apos;FrameSystem/src/lib&apos;&#x0D;&#x0A;- Original element: &apos;calculation.Calculation_lib.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=FrameSystem/src&lt;lib" element1="/src&lt;calculation{Calculation_lib.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1421653652980" units="1" version="1.0"/>
+</session>

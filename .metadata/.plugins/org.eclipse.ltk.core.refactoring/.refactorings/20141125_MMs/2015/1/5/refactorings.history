@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MMS_lib.java&apos; to &apos;FrameSystem/src/lib&apos;&#x0D;&#x0A;- Original project: &apos;20141125_MMs&apos;&#x0D;&#x0A;- Destination element: &apos;FrameSystem/src/lib&apos;&#x0D;&#x0A;- Original element: &apos;mms.MMS_lib.java&apos;" description="Copy compilation unit" destination="=FrameSystem/src&lt;lib" element1="/src&lt;mms{MMS_lib.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1422246652608" units="1" version="1.0"/>
+</session>
